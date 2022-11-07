@@ -1,0 +1,9 @@
+Sugar      1.19 1
+Juice      2.19 1
+Rice       0.19 4
+Beans     40.19 3
+Oil        2.19 1
+Eggs       2.19 2
+Bread      2.19 1
+Potato     0.19 2
+Onion      0.19 3

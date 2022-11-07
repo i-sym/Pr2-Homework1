@@ -1,0 +1,9 @@
+Sugar    - 1.19 x 1
+Juice    - 2.19 x 1
+Rice     - 0.19 x 4
+Beans    - No products can be purchased 
+Oil      - 2.19 x 1
+Eggs     - 2.19 x 2
+Bread    - 2.19 x 1
+Potato   - 0.19 x 2
+Onion    - 0.19 x 3
